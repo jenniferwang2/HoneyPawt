@@ -1,0 +1,3 @@
+2025-10-18 19:20:46,200 Client 127.0.0.1 accessed main page
+2025-10-18 19:20:55,245 Client 127.0.0.1 attempted login with username: testing_user, password: testing_pass
+2025-10-18 19:20:57,535 Client 127.0.0.1 accessed main page
